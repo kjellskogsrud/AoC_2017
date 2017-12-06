@@ -18,6 +18,7 @@ namespace AoC_2017
             AdventDays.Add(new Day03());
             AdventDays.Add(new Day04());
             AdventDays.Add(new Day05());
+            AdventDays.Add(new Day06());
 
             IDay SelectedDay = null;
             int SelectedPart = 0;
